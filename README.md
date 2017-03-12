@@ -84,7 +84,12 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 ### Blockchain App examples
 
 - https://github.com/IBM-Blockchain/cp-web
+
 - https://github.com/IBM-Blockchain/marbles
+
+### Hackthon Project
+
+- https://github.com/lostmarble/blockchain-kyc
 
 ## License
 
