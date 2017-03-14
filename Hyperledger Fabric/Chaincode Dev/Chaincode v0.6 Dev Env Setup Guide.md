@@ -19,9 +19,12 @@ ldconfig
 
 **Golang**
 
-参考此[官方文档](https://golang.org/doc/install)操作安装并注意设置GOPATH
+参考此[官方文档](https://golang.org/doc/install)操作安装并注意设置GOROOT(/usr/local/go)和GOPATH
+可以使用`sudo ln -s /usr/local/go/bin/go /usr/bin/go`建立软链接
 
 ## 2. Fabric 安装 Install
+
+依赖 hyperledger/fabric-baseimage:X86_64-0.0.11 镜像
 
 ```shell
 mkdir -p fabric/src/github.com/hyperledger
@@ -40,8 +43,6 @@ make peer
 ```
 
 ## 3. 快速启动 Quick Setup
-
-依赖 hyperledger/fabric-baseimage:X86_64-0.0.11 镜像
 
 执行`membersrvc`命令启动CA节点，会使用默认配置文件membersrvc.yaml
 
