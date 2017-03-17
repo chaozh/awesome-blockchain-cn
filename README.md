@@ -38,6 +38,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/)
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide)
+- [fabric代码分析](https://yeasy.gitbooks.io/hyperledger_code_fabric/content/) 未完成
 
 ## Blogs
 
