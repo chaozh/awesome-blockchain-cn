@@ -42,6 +42,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 ## Blogs
 
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
+- [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 
 ## Resources
 ### API
