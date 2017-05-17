@@ -59,6 +59,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 
 ## Boilerplates
 
+- [Composer](https://github.com/hyperledger/composer) Composer is a framework for building Blockchain business networks
 - [IBM fabric boilerplate](https://github.com/IBM-Blockchain/fabric-boilerplate)
 - [Hyperledger hackathon](https://github.com/timblankers/hyperledger-hackathon)
 - [Fabric with graphql](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
