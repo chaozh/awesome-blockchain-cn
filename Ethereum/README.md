@@ -14,15 +14,16 @@
 
 ## Architect
 
-
+- [以太坊代码剖析](http://ethfans.org/topics/227)
 
 ## Tutorials
 
-- [以太坊代码剖析](http://ethfans.org/topics/227)
+- [以太坊开发相关详解](http://me.tryblockchain.org/)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 
 ## API
 
+- [Solidity语言文档](http://www.tryblockchain.org/)
 
 ## Boilerplates
 
