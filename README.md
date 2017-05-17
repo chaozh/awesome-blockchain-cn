@@ -9,7 +9,7 @@
 - [Intro](#intro)
 - [Books](#books)
 - [Blogs](#blogs)
-- [Resources](#Resources)
+- [Related](#Related)
 
 ## Intro
 
@@ -22,9 +22,10 @@
 
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide)
 
-## Resources
+## Related
 
 - [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric)
+- [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum)
 
 ## Blogs
 
