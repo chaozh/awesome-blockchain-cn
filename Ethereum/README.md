@@ -24,6 +24,8 @@
 ## API
 
 - [Solidity语言文档](http://www.tryblockchain.org/)
+- [Web3.JS接口文档](http://web3.tryblockchain.org/)
+- [Truffle框架文档](http://truffle.tryblockchain.org/)
 
 ## Boilerplates
 
