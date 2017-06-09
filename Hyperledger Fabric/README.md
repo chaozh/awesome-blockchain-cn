@@ -43,6 +43,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 
 ### v1.0
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
+- [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404)
 - [v1.0 Fabric CA Setup](https://hyperledger-fabric.readthedocs.io/en/latest/Setup/ca-setup.html)
 
 ## Blogs
@@ -52,6 +53,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 
 ## API
 
+### v0.6
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/)
 - [Core Restful API](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/CoreAPI.md)  中文版
 - [CA Attributes Usage](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/AttributesUsage.md) 中文版
