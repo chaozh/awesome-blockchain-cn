@@ -27,6 +27,9 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 - [Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计](https://zhuanlan.zhihu.com/p/24605987)
 - [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
 - [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
+- [Hyperledger Fabric 示意图](http://www.jianshu.com/p/a7df2c1c30d4)
+- [Fabric Gossip源码分析](http://www.jianshu.com/p/82db9b2fa197)
+- [Fabric-CA-1.0-Alpha小结](http://www.jianshu.com/p/ec7d4216c3cf)
 
 ## Tutorials
 
@@ -45,11 +48,14 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404)
 - [v1.0 Fabric CA Setup](https://hyperledger-fabric.readthedocs.io/en/latest/Setup/ca-setup.html)
+- [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77)
 
 ## Blogs
 
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
+- [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
+- [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
 
 ## API
 
