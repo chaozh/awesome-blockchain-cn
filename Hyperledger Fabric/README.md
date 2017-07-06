@@ -47,6 +47,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 ### v1.0
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404)
+- [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662)
 - [v1.0 Fabric CA Setup](https://hyperledger-fabric.readthedocs.io/en/latest/Setup/ca-setup.html)
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77)
 
