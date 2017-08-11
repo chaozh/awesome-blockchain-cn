@@ -8,10 +8,11 @@
 
 - [介绍](#介绍)
 - [教程](#教程)
+- [资源](#资源)
 - [博客](#博客)
 - [书籍](#书籍)
 - [案例](#案例)
-- [相关](#相关)
+
 
 ## 介绍
 
@@ -43,6 +44,15 @@
 - [以太坊开发相关详解](http://me.tryblockchain.org/)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 
+## 资源
+
+- [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) Fabric相关资源收集
+- [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 以太坊相关资源收集
+- [Metaverse](https://github.com/mvs-org/metaverse) 原界链源码
+- [EOS](https://github.com/EOSIO/eos) 来自EOS链源码
+- [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
+- [Blockbench](https://github.com/ooibc88/blockbench) 区块链性能测试工具
+
 ## 博客
 
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
@@ -60,12 +70,6 @@
 - [Solidity语言文档](http://www.tryblockchain.org/)
 - [Web3.JS接口文档](http://web3.tryblockchain.org/)
 - [Truffle框架文档](http://truffle.tryblockchain.org/)
-
-## 相关
-
-- [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric)
-- [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum)
-
 
 ## License
 
