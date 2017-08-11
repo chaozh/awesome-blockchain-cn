@@ -59,6 +59,7 @@
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
+- [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 
 ## 书籍
 

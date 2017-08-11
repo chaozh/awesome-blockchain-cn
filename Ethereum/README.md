@@ -5,12 +5,12 @@
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
 ## Contents
-- [架构](#Architect)
+- [架构](#architect)
 - [教程](#tutorials)
 - [API](#api)
-- [SDK](#SDK)
-- [优化](#Enhance)
-- [案例](#Examples)
+- [SDK](#sdk)
+- [优化](#enhance)
+- [案例](#examples)
 
 ## Architect
 
