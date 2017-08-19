@@ -40,7 +40,8 @@
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404) 针对Fabric1.0版本的开发环境搭建指引
 - [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662) 使用Fabric源码编译v1.0-alpha版本的Docker镜像指引
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77) 官方Fabric应用开发工具Hyperledger Composer入门
-
+- [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
+- [以太坊智能合约编程之菜鸟教程](http://blog.csdn.net/fidelhl/article/details/50481859)
 - [以太坊开发相关详解](http://me.tryblockchain.org/)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 

@@ -14,12 +14,17 @@
 
 ## Architect
 
+- [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
+- [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 
 ## Tutorials
 
 - [以太坊开发相关详解](http://me.tryblockchain.org/)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
+- [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
+- [以太坊智能合约编程之菜鸟教程](http://blog.csdn.net/fidelhl/article/details/50481859)
+- [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
 ## API
@@ -33,6 +38,7 @@
 - [truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
+- [web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
 
 ## Enhance
 
@@ -42,8 +48,16 @@
 
 ## Examples
 
+### IM
+
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
 - [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
+
+### Exchange
+
+- [0x](https://www.0xproject.com/otc) 0x交易所[源码](https://github.com/0xProject/contracts)
+- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
+- [Dmarket](https://dmarket.io) dmarket交易所[源码](https://github.com/suntechsoft/dmarket-smartcontract)
 
 ## License
 
