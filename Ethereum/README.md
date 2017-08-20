@@ -7,13 +7,16 @@
 ## Contents
 - [架构](#architect)
 - [教程](#tutorials)
-- [API](#api)
+- [视频](#videos)
+- [工具](#tool)
+- [文档](#documents)
 - [SDK](#sdk)
 - [优化](#enhance)
 - [案例](#examples)
 
 ## Architect
 
+- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
@@ -23,22 +26,50 @@
 - [以太坊开发相关详解](http://me.tryblockchain.org/)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
-- [以太坊智能合约编程之菜鸟教程](http://blog.csdn.net/fidelhl/article/details/50481859)
+- [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
-## API
+## Videos
+
+- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程
+- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
+- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
+- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
+- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
+
+## Tool
+
+### Explorer
+
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
+- [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
+
+### Wallet
+
+- [My Ether Wallet](https://myetherwallet.com) 官方版钱包
+- [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
+- [Multi-platform Jaxx Wallet](https://jaxx.io/) 同时兼容比特币钱包
+- [Mist Wallet](https://github.com/ethereum/mist/releases/latest) 官方版钱包
+- [Parity Wallet](https://github.com/paritytech/parity/releases/latest)
+- [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
+- [imToken](https://token.im/) 移动App版钱包
+- [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
+- [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
+
+## Documents
+
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
 - [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+- [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
 
 ## SDK
 
 - [truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
-- [cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
-- [zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
-- [web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
+- [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
+- [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
+- [Web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
 
 ## Enhance
 
