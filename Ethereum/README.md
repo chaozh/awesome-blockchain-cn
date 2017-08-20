@@ -28,10 +28,10 @@
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
 ## API
-
-- [Solidity语言文档](http://www.tryblockchain.org/)
-- [Web3.JS接口文档](http://web3.tryblockchain.org/)
-- [Truffle框架文档](http://truffle.tryblockchain.org/)
+- [Etherscan](https://etherscan.io) 以太坊区块链浏览器
+- [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
+- [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
+- [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
 
 ## SDK
 

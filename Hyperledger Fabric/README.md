@@ -9,7 +9,6 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 ## Contents
 - [架构](#Architect)
 - [教程](#tutorials)
-- [博客](#blogs)
 - [API](#api)
 - [SDK](#SDK)
 - [示例](#Examples)
@@ -51,62 +50,32 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77)
 - [hyperledger fabric本地开发环境mac部署](https://my.oschina.net/wtsoftware/blog/789164)
 
-## Blogs
+## API
 
+- [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
 
-## API
-
-### v0.6
-- [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/)
-- [Core Restful API](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/CoreAPI.md)  中文版
-- [CA Attributes Usage](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/AttributesUsage.md) 中文版
-- [Member Services API](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/MemberServicesAPI.md) 中文版
-
 ## SDK
 
 - [Hyperledger Fabric API](https://github.com/hyperledger/fabric-api)
-
 - [Fabric Java SDK](https://github.com/hyperledger/fabric-sdk-java)
-
 - [Fabric Python SDK](https://github.com/hyperledger/fabric-sdk-py)
-
 - [Fabric Nodejs SDK](https://github.com/hyperledger/fabric-sdk-node)
-
 - [IBM Nodejs SDK](https://github.com/IBM-Blockchain/ibm-blockchain-js)
-
 - [IBM fabric boilerplate](https://github.com/IBM-Blockchain/fabric-boilerplate)
-
-- [Composer](https://github.com/hyperledger/composer) Composer is a framework for building Blockchain business networks
-
+- [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
 - [Hyperledger hackathon](https://github.com/timblankers/hyperledger-hackathon)
-
 - [Fabric with graphql](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
 
 ## Examples
 
 - [Fabric Explorer](https://github.com/hyperledger/blockchain-explorer)
+- [cp-web](https://github.com/IBM-Blockchain/cp-web)
+- [marbles](https://github.com/IBM-Blockchain/marbles) 官方示例
 
-### base-image sources
-- https://github.com/hyperledger/fabric-baseimage
-
-### chain code examples
-
-- https://github.com/gazbert/hyperledger-mortgage-demo
-- https://github.com/masterDev1985/hyperledger_chaincode
-
-### Blockchain App examples
-
-- https://github.com/IBM-Blockchain/cp-web
-
-- https://github.com/IBM-Blockchain/marbles
-
-### Hackthon Project
-
-- https://github.com/lostmarble/blockchain-kyc
 
 ## License
 
