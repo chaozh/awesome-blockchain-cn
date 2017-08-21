@@ -23,10 +23,14 @@
 
 ## Tutorials
 
-- [以太坊开发相关详解](http://me.tryblockchain.org/)
-- [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
-- [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
+- [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [Mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
+- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程
+- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程
+- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约
+- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误
+- [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
@@ -62,11 +66,12 @@
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
 - [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
+- [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/)
 - [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
 
 ## SDK
 
-- [truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
+- [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
 - [Web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
@@ -89,6 +94,10 @@
 - [0x](https://www.0xproject.com/otc) 0x交易所[源码](https://github.com/0xProject/contracts)
 - [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
 - [Dmarket](https://dmarket.io) dmarket交易所[源码](https://github.com/suntechsoft/dmarket-smartcontract)
+
+### Token
+
+- [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 
 ## License
 
