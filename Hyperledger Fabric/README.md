@@ -46,7 +46,7 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404)
 - [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662)
-- [v1.0 Fabric CA Setup](https://hyperledger-fabric.readthedocs.io/en/latest/Setup/ca-setup.html)
+- [Fabric-CA-1.0-Alpha 小结](http://www.jianshu.com/p/ec7d4216c3cf?winzoom=1.125)
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77)
 - [hyperledger fabric本地开发环境mac部署](https://my.oschina.net/wtsoftware/blog/789164)
 
@@ -75,7 +75,6 @@ Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) i
 - [Fabric Explorer](https://github.com/hyperledger/blockchain-explorer)
 - [cp-web](https://github.com/IBM-Blockchain/cp-web)
 - [marbles](https://github.com/IBM-Blockchain/marbles) 官方示例
-
 
 ## License
 

@@ -57,6 +57,7 @@
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
+- [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
 - [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
