@@ -16,16 +16,21 @@
 
 ## Architect
 
+- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
+- [PoW模式下交易平均要35秒？](http://ethfans.org/posts/current-dynamics-of-transaction-inclusion-on-ethereum)
 
 ## Tutorials
 
+- [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [Mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
+- [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
+- [以太坊系列教程](http://gi1.cn/topics/category/solidity)
 - [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程
 - [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程
 - [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约

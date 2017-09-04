@@ -15,6 +15,17 @@
 
 ## 介绍
 
+### 入门
+- [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902)
+- [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289)
+- [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642)
+- [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain)
+- [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
+- [理解区块链](http://blog.csdn.net/csolo/article/details/52858236 )
+- [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250)       
+
+### 进阶
+
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide)
 - [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
 - [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
@@ -51,6 +62,7 @@
 
 ## 资料
 
+- [以太坊系列教程](http://gi1.cn/topics/category/solidity)
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
