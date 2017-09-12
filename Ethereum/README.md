@@ -94,11 +94,18 @@
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
 - [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
 
+### Social
+
+- [dharma](https://dharma.io/) 第三方增信[源码](https://github.com/dharmaprotocol/dharma-cli)
+- [Chronobank](https://chronobank.io/) 共享机制
+
 ### Exchange
 
 - [0x](https://www.0xproject.com/otc) 0x交易所[源码](https://github.com/0xProject/contracts)
 - [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
 - [Dmarket](https://dmarket.io) dmarket交易所[源码](https://github.com/suntechsoft/dmarket-smartcontract)
+- [augur](https://augur.net/) 对赌交易所[源码](https://github.com/AugurProject)
+- [melonport](https://melonport.com/) 数字资产交易所[源码](https://github.com/melonproject)
 
 ### Cross Chain
 
@@ -108,6 +115,7 @@
 ### Token
 
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
+- [maker](https://makerdao.com/) Dai代币
 
 ## License
 
