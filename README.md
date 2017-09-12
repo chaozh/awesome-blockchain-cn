@@ -15,6 +15,17 @@
 
 ## 介绍
 
+### 入门
+- [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902)
+- [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289)
+- [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642)
+- [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain)
+- [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum)
+- [理解区块链](http://blog.csdn.net/csolo/article/details/52858236 )
+- [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250)       
+
+### 进阶
+
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide)
 - [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
 - [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
@@ -37,8 +48,7 @@
 - [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662) 使用Fabric源码编译v1.0-alpha版本的Docker镜像指引
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77) 官方Fabric应用开发工具Hyperledger Composer入门
 - [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
-- [以太坊智能合约编程之菜鸟教程](http://blog.csdn.net/fidelhl/article/details/50481859)
-- [以太坊开发相关详解](http://me.tryblockchain.org/)
+- [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 
 ## 项目
@@ -52,6 +62,7 @@
 
 ## 资料
 
+- [以太坊系列教程](http://gi1.cn/topics/category/solidity)
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
@@ -59,6 +70,7 @@
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
+- [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
 - [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
