@@ -95,6 +95,11 @@
 - [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
 - [Dmarket](https://dmarket.io) dmarket交易所[源码](https://github.com/suntechsoft/dmarket-smartcontract)
 
+### Cross Chain
+
+- [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH[源码](https://github.com/cosmos)
+- [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端[源码](https://github.com/paritytech/parity)
+
 ### Token
 
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
