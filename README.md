@@ -4,14 +4,6 @@
 
 *请在为本项目贡献信息前仔细阅读 [操作指南](.github/contributing.md) *
 
-## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) 
-
-Fabric相关详细开发资源收集
-
-## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
-
-以太坊相关详细开发资源收集
-
 ## Contents
 
 - [介绍](#介绍)
@@ -19,7 +11,6 @@ Fabric相关详细开发资源收集
 - [项目](#项目)
 - [资料](#资料)
 - [应用](#应用)
-
 
 ## 介绍
 
@@ -31,18 +22,7 @@ Fabric相关详细开发资源收集
 - [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键要点讲解
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
-
-### Fabirc进阶
-
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
-- [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
-- [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
-- [Blockchain区块链架构设计之三：Hyperledger Fabric介绍](https://zhuanlan.zhihu.com/p/23947372)
-- [Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计](https://zhuanlan.zhihu.com/p/24605987)
-- [Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考](https://zhuanlan.zhihu.com/p/25061575)
-- [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
-- [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
-- [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
 ### 以太坊进阶
 
@@ -52,6 +32,17 @@ Fabric相关详细开发资源收集
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
+
+### Fabirc联盟链进阶
+
+- [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
+- [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
+- [Blockchain区块链架构设计之三：Hyperledger Fabric介绍](https://zhuanlan.zhihu.com/p/23947372)
+- [Blockchain区块链架构设计之四：Fabric多通道和下一代账本设计](https://zhuanlan.zhihu.com/p/24605987)
+- [Blockchain区块链架构设计之五：让DLT产生协作，对Corda和GSL的思考](https://zhuanlan.zhihu.com/p/25061575)
+- [Blockchain区块链架构设计之六：Fabric 1.0账本设计（1）](https://zhuanlan.zhihu.com/p/25119939)
+- [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
+- [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
 ## 教程
 
@@ -69,7 +60,7 @@ Fabric相关详细开发资源收集
 - [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 
-### Fabric
+### Fabric联盟链
 
 - [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境(英文资料)
 - [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门(英文资料)
@@ -91,7 +82,7 @@ Fabric相关详细开发资源收集
 
 ## 项目
 
-### 区块链
+### 区块链底层
 
 - [Metaverse](https://github.com/mvs-org/metaverse) 原界链源码
 - [EOS](https://github.com/EOSIO/eos) EOS链源码
@@ -139,7 +130,7 @@ Fabric相关详细开发资源收集
 
 ## 应用
 
-### 链信息
+### Explore 链浏览
 
 - [Blockchain](https://blockchain.info) 比特币区块链浏览器
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
@@ -184,6 +175,14 @@ Fabric相关详细开发资源收集
 - [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的ICO代币标准
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
+
+## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
+
+以太坊相关详细开发资源收集
+
+## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) 
+
+Fabric联盟链相关详细开发资源收集
 
 ## License
 
