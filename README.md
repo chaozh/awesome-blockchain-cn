@@ -2,7 +2,12 @@
 
 >  收集所有区块链(BlockChain)技术开发相关资料
 
-*请在为本项目贡献信息前仔细阅读 [操作指南](.github/contributing.md) *
+*请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) *
+
+欢迎到Issues提交区块链相关项目，我们会第一时间处理。
+提交的项目格式如下：
+项目名称：XXXXX
+相关介绍: XXXXXX
 
 ## Contents
 
@@ -104,12 +109,13 @@
 
 ### 比特币
 
-- [精通比特币](https://bitcoinbook.info/) 比特币开发Oreilly开源书
+- [精通比特币](https://bitcoinbook.info/) 精通比特币开发Oreilly开源书
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
 ### 以太坊
 
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
 - [以太坊系列教程](http://gi1.cn/topics/category/solidity) solidity语言学习
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
