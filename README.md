@@ -51,6 +51,10 @@
 
 ## 教程
 
+### 比特币
+
+- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程
+
 ### 以太坊
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
@@ -109,7 +113,7 @@
 
 ### 比特币
 
-- [精通比特币](https://bitcoinbook.info/) 精通比特币开发Oreilly开源书
+- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](http://zhibimo.com/books/wang-miao/mastering-bitcoin)
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
