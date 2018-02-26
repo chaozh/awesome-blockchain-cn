@@ -199,10 +199,10 @@ Fabric联盟链相关详细开发资源收集
 ## 赞助
 
 微信：
-![weixin](https://github.com/chaozh/awesome-blockchain/raw/master/images/weixin.jpg)
+![weixin](https://github.com/chaozh/awesome-blockchain/raw/master/images/weixin.png)
 
 支付宝：
-![alipay](https://github.com/chaozh/awesome-blockchain/raw/master/images/alipay.jpg)
+![alipay](https://github.com/chaozh/awesome-blockchain/raw/master/images/alipay.png)
 
 ## License
 
