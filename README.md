@@ -107,7 +107,9 @@
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
 - [Web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
+- [Porosity](https://github.com/comaeio/porosity) 反编译以太坊智能合约工具
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
+
 
 ## 资料
 
@@ -193,6 +195,14 @@
 ## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) 
 
 Fabric联盟链相关详细开发资源收集
+
+## 赞助
+
+微信：
+![weixin](https://github.com/chaozh/awesome-blockchain/raw/master/images/weixin.jpg)
+
+支付宝：
+![alipay](https://github.com/chaozh/awesome-blockchain/raw/master/images/alipay.jpg)
 
 ## License
 
