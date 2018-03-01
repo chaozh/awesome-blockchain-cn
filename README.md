@@ -198,9 +198,6 @@ Fabric联盟链相关详细开发资源收集
 
 ## 赞助
 
-支付宝：
-![alipay](https://github.com/chaozh/awesome-blockchain/raw/master/images/alipay.png)
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
