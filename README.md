@@ -100,6 +100,7 @@
 - [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 - [BCOS](https://github.com/bcosorg/bcos) 来自微众银行的增强版以太坊实现
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
+- [CITA](https://github.com/cryptape/cita) 面向企业级应用的支持智能合约的区块链框架CITA
 
 ### SDK工具包
 
