@@ -18,7 +18,8 @@
 
 ## Architect
 
-- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
+- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书) 讲解以太坊设计思路
+- [以太坊黄皮书](http://yellowpaper.io) 论证以太坊技术可能性 [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
