@@ -2,7 +2,7 @@
 
 >  收集所有区块链(BlockChain)技术开发相关资料
 
-*请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) *
+* Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) *
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -11,15 +11,15 @@
 
 ## Contents
 
-- [介绍](#介绍)
-- [教程](#教程)
-- [项目](#项目)
-- [资料](#资料)
-- [应用](#应用)
+- [Intro 介绍](#Intro 介绍)
+- [Tutorial 教程](#Tutorial 教程)
+- [Project 项目](#Project 项目)
+- [Document 资料](#Document 资料)
+- [Application 应用](#Application 应用)
 
-## 介绍
+## Intro 介绍 
 
-### 入门
+### STARTED 入门 
 
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
 - [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
@@ -29,16 +29,16 @@
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 
-### 以太坊进阶
+### ETHEREUM 以太坊进阶
 
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
-- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
+- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *English*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
 
-### Fabirc联盟链进阶
+### FABRIC 联盟链进阶
 
 - [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
 - [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
@@ -49,13 +49,13 @@
 - [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
 - [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
-## 教程
+## Tutorial 教程
 
-### 比特币
+### BITCOIN 比特币
 
-- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程
+- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *English*
 
-### 以太坊
+### ETHEREUM 以太坊
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
@@ -63,33 +63,33 @@
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
-- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程
-- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程
-- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约
-- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误
+- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程 *English*
+- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程 *English*
+- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *English*
+- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *English*
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 
-### Fabric联盟链
+### FABRIC 联盟链
 
-- [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境(英文资料)
-- [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门(英文资料)
-- [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) 官方Chaincode案例教程第一部分(英文资料)
-- [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) 官方Chaincode案例教程第二部分(英文资料)
+- [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境 *English*
+- [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门 *English*
+- [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) 官方Chaincode案例教程第一部分 *English*
+- [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) 官方Chaincode案例教程第二部分 *English*
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404) 针对Fabric1.0版本的开发环境搭建指引
 - [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662) 使用Fabric源码编译v1.0-alpha版本的Docker镜像指引
 - [Hyperledger Composer使用入门](http://www.jianshu.com/p/7bc258810b77) 官方Fabric应用开发工具Hyperledger Composer入门
 - [Fabric-CA-1.0-Alpha小结](http://www.jianshu.com/p/ec7d4216c3cf)
 
-### 视频
+### Videos 视频
 
-- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程
-- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
-- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
+- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程 *English*
+- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) *English*
+- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) *English*
+- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *English*
+- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/) *English*
 
-## 项目
+## Project 项目
 
 ### 区块链底层
 
@@ -101,7 +101,7 @@
 - [BCOS](https://github.com/bcosorg/bcos) 来自微众银行的增强版以太坊实现
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
 
-### SDK工具包
+### SDK 工具包
 
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
@@ -111,15 +111,15 @@
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
 
 
-## 资料
+## Document 资料
 
-### 比特币
+### BITCOIN 比特币
 
 - [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](http://zhibimo.com/books/wang-miao/mastering-bitcoin)
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
-### 以太坊
+### ETHEREUM 以太坊
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
@@ -132,7 +132,7 @@
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
-### Fabric联盟链
+### FABRIC 联盟链
 
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
@@ -140,9 +140,9 @@
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
 
-## 应用
+## Application 应用 
 
-### Explore 链浏览
+### Explorer 链浏览
 
 - [Blockchain](https://blockchain.info) 比特币区块链浏览器
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
@@ -196,13 +196,7 @@
 
 Fabric联盟链相关详细开发资源收集
 
-## 赞助
-
-微信：
-![weixin](https://github.com/chaozh/awesome-blockchain/raw/master/images/weixin.jpg)
-
-支付宝：
-![alipay](https://github.com/chaozh/awesome-blockchain/raw/master/images/alipay.jpg)
+## HELP 赞助
 
 ## License
 
