@@ -165,12 +165,13 @@
 ### IM 通信
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
-- [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
 
 ### Social 社会
 
 - [dharma](https://dharma.io/) 第三方增信[源码](https://github.com/dharmaprotocol/dharma-cli)
 - [Chronobank](https://chronobank.io/) 共享机制
+- [slockit](https://slock.it/) 租借智能设备 [源码](https://github.com/slockit/smart-contract)
+- [DAO](https://github.com/slockit/DAO) DAO提案
 
 ### Exchange 交易所
 
