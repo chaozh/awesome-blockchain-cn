@@ -2,7 +2,7 @@
 
 >  收集所有区块链(BlockChain)技术开发相关资料
 
-* Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) *
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -32,7 +32,7 @@
 ### Ethereum 以太坊进阶
 
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
-- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *English*
+- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
@@ -54,7 +54,7 @@
 
 ### BitCoin 比特币
 
-- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *English*
+- [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *(English)*
 
 ### Ethereum 以太坊
 
@@ -64,18 +64,18 @@
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
-- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程 *English*
-- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程 *English*
-- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *English*
-- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *English*
+- [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程 *(English)*
+- [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程 *(English)*
+- [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *(English)*
+- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *(English)*
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 
 ### Fabric 联盟链
 
-- [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境 *English*
-- [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门 *English*
-- [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) 官方Chaincode案例教程第一部分 *English*
-- [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) 官方Chaincode案例教程第二部分 *English*
+- [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境 *(English)*
+- [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门 *(English)*
+- [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) 官方Chaincode案例教程第一部分 *(English)*
+- [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) 官方Chaincode案例教程第二部分 *(English)*
 - [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 - [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404) 针对Fabric1.0版本的开发环境搭建指引
 - [Fabric v1.0-alpha 开发镜像编译](http://blog.csdn.net/remote_roamer/article/details/70228662) 使用Fabric源码编译v1.0-alpha版本的Docker镜像指引
@@ -84,11 +84,11 @@
 
 ### Videos 视频
 
-- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程 *English*
-- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) *English*
-- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) *English*
-- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *English*
-- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/) *English*
+- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程 *(English)*
+- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) *(English)*
+- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) *(English)*
+- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *(English)*
+- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/) *(English)*
 
 ## PROJECT 项目
 
