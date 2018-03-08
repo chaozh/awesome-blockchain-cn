@@ -11,11 +11,11 @@
 
 ## CONTENTS
 
-- [介绍](#介绍)
-- [教程](#教程)
-- [项目](#项目)
-- [资料](#资料)
-- [应用](#应用)
+- [INTRO 介绍](#intro-%E4%BB%8B%E7%BB%8D)
+- [TUTORIAL 教程](#tutorial-%E6%95%99%E7%A8%8B)
+- [PROJECT 项目](#project-%E9%A1%B9%E7%9B%AE)
+- [DOCUMENT 资料](#document-%E8%B5%84%E6%96%99)
+- [APPLICATION 应用](#application-%E5%BA%94%E7%94%A8)
 
 ## INTRO 介绍 
 
