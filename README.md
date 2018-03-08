@@ -9,17 +9,17 @@
 项目名称：XXXXX
 相关介绍: XXXXXX
 
-## Contents
+## CONTENTS
 
-- [Intro 介绍](#Intro 介绍)
-- [Tutorial 教程](#Tutorial 教程)
-- [Project 项目](#Project 项目)
-- [Document 资料](#Document 资料)
-- [Application 应用](#Application 应用)
+- [介绍](#介绍)
+- [教程](#教程)
+- [项目](#项目)
+- [资料](#资料)
+- [应用](#应用)
 
-## Intro 介绍 
+## INTRO 介绍 
 
-### STARTED 入门 
+### Started 入门 
 
 - [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
 - [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
@@ -29,7 +29,7 @@
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 
-### ETHEREUM 以太坊进阶
+### Ethereum 以太坊进阶
 
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *English*
@@ -39,7 +39,7 @@
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
 
 
-### FABRIC 联盟链进阶
+### Fabric 联盟链进阶
 
 - [Blockchain区块链架构设计之一：成员管理](https://zhuanlan.zhihu.com/p/23356616)
 - [Blockchain区块链架构设计之二：分布式账本技术对比](https://zhuanlan.zhihu.com/p/23463699)
@@ -50,13 +50,13 @@
 - [Blockchain区块链架构设计之七：Fabric 1.0 Endorse背书策略](https://zhuanlan.zhihu.com/p/25295608)
 - [Hyperledger架构解读：Hyperledger Fabric1.0架构概览](http://www.wanbizu.com/blockchain/201702078984.html)
 
-## Tutorial 教程
+## TUTORIAL 教程
 
-### BITCOIN 比特币
+### BitCoin 比特币
 
 - [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency) Cousera上的比特币教程 *English*
 
-### ETHEREUM 以太坊
+### Ethereum 以太坊
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
@@ -70,7 +70,7 @@
 - [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *English*
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 
-### FABRIC 联盟链
+### Fabric 联盟链
 
 - [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics)  使用Docker Toolbox来搭建Fabric的开发环境 *English*
 - [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) Fabric Chaincode入门 *English*
@@ -90,7 +90,7 @@
 - [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *English*
 - [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/) *English*
 
-## Project 项目
+## PROJECT 项目
 
 ### Chain 区块链底层
 
@@ -114,15 +114,15 @@
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
 
 
-## Document 资料
+## DOCUMENT 资料
 
-### BITCOIN 比特币
+### BitCoin 比特币
 
 - [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](http://zhibimo.com/books/wang-miao/mastering-bitcoin)
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
-### ETHEREUM 以太坊
+### Ethereum 以太坊
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
@@ -135,7 +135,7 @@
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
-### FABRIC 联盟链
+### Fabric 联盟链
 
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
 - [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
@@ -143,7 +143,7 @@
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
 
-## Application 应用 
+## APPLICATION 应用 
 
 ### Explorer 链浏览
 
