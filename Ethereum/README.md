@@ -79,6 +79,7 @@
 
 ## SDK
 
+- [Embark](https://github.com/embark-framework/embark) 以太坊DApp开发框架
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
