@@ -102,16 +102,22 @@
 - [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 - [BCOS](https://github.com/bcosorg/bcos) 来自微众银行的增强版以太坊实现
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
+- [IPFS](https://github.com/ipfs/go-ipfs) IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs)
 
 
 ### SDK 工具包
 
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
-- [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
-- [Web3j](https://github.com/web3j/web3j) 以太坊官方轻量级java SDK
+- [Web3j](https://github.com/web3j/web3j) 以太坊官方Web3轻量级java SDK
+- [Embark](https://github.com/embark-framework/embark) 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用 
+- [Web3Swift](https://github.com/BANKEX/web3swift) 一个Web3的swift SDK
 - [Porosity](https://github.com/comaeio/porosity) 反编译以太坊智能合约工具
+- [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) 检测Solidity代码覆盖
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
+- [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
+- [Zokrates](https://github.com/JacobEberhardt/ZoKrates) 以太坊使用zkSNARKS工具包(实验用)
+- [libsnark](https://github.com/scipr-lab/libsnark) zkSNARKS C++库
 
 
 ## DOCUMENT 资料
@@ -132,6 +138,7 @@
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
 - [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/) 框架中文手册
 - [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) _(english)_
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
@@ -152,7 +159,7 @@
 
 ### Wallet 钱包
 
-- [My Ether Wallet](https://myetherwallet.com) 官方版钱包
+- [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet)
 - [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
 - [Multi-platform Jaxx Wallet](https://jaxx.io/) 同时兼容以太坊和比特币钱包
 - [Mist Wallet](https://github.com/ethereum/mist/releases/latest) 官方版轻量级钱包
@@ -168,23 +175,23 @@
 
 ### Social 社会
 
-- [dharma](https://dharma.io/) 第三方增信[源码](https://github.com/dharmaprotocol/dharma-cli)
+- [dharma](https://dharma.io/) 第三方增信 [源码](https://github.com/dharmaprotocol/dharma-cli)
 - [Chronobank](https://chronobank.io/) 共享机制
 - [slockit](https://slock.it/) 租借智能设备 [源码](https://github.com/slockit/smart-contract)
 - [DAO](https://github.com/slockit/DAO) DAO提案
 
 ### Exchange 交易所
 
-- [0x](https://www.0xproject.com/otc) 0x交易所[源码](https://github.com/0xProject/contracts)
-- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所[源码](https://github.com/etherdelta/smart_contract)
-- [Dmarket](https://dmarket.io) dmarket交易所[源码](https://github.com/suntechsoft/dmarket-smartcontract)
-- [augur](https://augur.net/) 对赌交易所[源码](https://github.com/AugurProject)
-- [melonport](https://melonport.com/) 数字资产交易所[源码](https://github.com/melonproject)
+- [0x](https://www.0xproject.com/otc) 0x交易所 [源码](https://github.com/0xProject/contracts)
+- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所 [源码](https://github.com/etherdelta/smart_contract)
+- [Dmarket](https://dmarket.io) dmarket交易所 [源码](https://github.com/suntechsoft/dmarket-smartcontract)
+- [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
+- [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
 
 ### Cross Chain 跨链
 
-- [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH[源码](https://github.com/cosmos)
-- [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端[源码](https://github.com/paritytech/parity)
+- [Cosmos](https://cosmos.network) cosmos跨链交易，包括BTC到ETH [源码](https://github.com/cosmos)
+- [polkadot](https://polkadot.io) polkadot跨链，实现了一个轻量级以太坊客户端 [源码](https://github.com/paritytech/parity)
 
 ### Token 代币
 
