@@ -141,6 +141,7 @@
 - [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) _(english)_
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
+- [Bitcoin flip Trading simulator](http://bitcoinflipapp.com/rr/?source=awesome-blockchain) 加密货币交易模拟器
 
 ### Fabric 联盟链
 
