@@ -34,6 +34,7 @@
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
+- [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
@@ -107,6 +108,7 @@
 
 ### SDK 工具包
 
+- [Remix](https://ethereum.github.io/browser-solidity/) 浏览器编译器
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
 - [Web3j](https://github.com/web3j/web3j) 以太坊官方Web3轻量级java SDK
@@ -175,6 +177,8 @@
 
 ### Social 社会
 
+- [Oraclize](http://docs.oraclize.it/#background) 第三方信息提供
+- [Aragon](https://aragon.one/) 公司业务 [源码](https://github.com/aragon/aragon-core/tree/master/contracts)
 - [dharma](https://dharma.io/) 第三方增信 [源码](https://github.com/dharmaprotocol/dharma-cli)
 - [Chronobank](https://chronobank.io/) 共享机制
 - [slockit](https://slock.it/) 租借智能设备 [源码](https://github.com/slockit/smart-contract)
