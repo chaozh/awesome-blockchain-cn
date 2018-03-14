@@ -35,6 +35,7 @@
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [以太坊Gas使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
@@ -159,6 +160,8 @@
 
 - [Blockchain](https://blockchain.info) 比特币区块链浏览器
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
+- [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
+- [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
 
 ### Wallet 钱包
 

@@ -21,6 +21,7 @@
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书) 讲解以太坊设计思路
 - [以太坊黄皮书](http://yellowpaper.io) 论证以太坊技术可能性 [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
+- [以太坊Gas使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
@@ -32,6 +33,7 @@
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [Mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
+- [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
 - [以太坊系列教程](http://gi1.cn/topics/category/solidity)
 - [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程
@@ -56,10 +58,11 @@
 
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
 - [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
+- [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
 
 ### Wallet
 
-- [My Ether Wallet](https://myetherwallet.com) 官方版钱包
+- [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet)
 - [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
 - [Multi-platform Jaxx Wallet](https://jaxx.io/) 同时兼容比特币钱包
 - [Mist Wallet](https://github.com/ethereum/mist/releases/latest) 官方版钱包
@@ -71,6 +74,7 @@
 
 ## Documents
 
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [Solidity语言文档](http://www.tryblockchain.org/) 语言中文手册
 - [Web3.JS接口文档](http://web3.tryblockchain.org/) 接口中文手册
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
@@ -95,12 +99,12 @@
 ### IM
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
-- [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
 
 ### Social
 
 - [dharma](https://dharma.io/) 第三方增信[源码](https://github.com/dharmaprotocol/dharma-cli)
 - [Chronobank](https://chronobank.io/) 共享机制
+- [slockit](https://github.com/slockit/smart-contract) Slock.it项目使用的智能合约
 
 ### Exchange
 
