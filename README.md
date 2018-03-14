@@ -172,6 +172,8 @@
 - [Parity Wallet](https://github.com/paritytech/parity/releases/latest) 
 - [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
 - [imToken](https://token.im/) 移动App版钱包
+- [Trust](https://trustwalletapp.com/) iOS / Android 原生钱包 + DApp 浏览器
+- [Cipher](https://www.cipherbrowser.com/) iOS / Android 钱包 + DApp 浏览器
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
 
