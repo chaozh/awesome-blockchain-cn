@@ -62,6 +62,7 @@
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [以太坊DApp开发入门教程](http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=20180319gitchaozh)
 - [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
