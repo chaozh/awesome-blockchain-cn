@@ -122,6 +122,7 @@
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
 - [Zokrates](https://github.com/JacobEberhardt/ZoKrates) 以太坊使用zkSNARKS工具包(实验用)
 - [libsnark](https://github.com/scipr-lab/libsnark) zkSNARKS C++库
+- [Maian](https://github.com/MAIAN-tool/MAIAN) 以太坊智能合约漏洞查找工具
 
 
 ## DOCUMENT 资料
