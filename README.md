@@ -106,22 +106,27 @@
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
 - [IPFS](https://github.com/ipfs/go-ipfs) IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs)
 
-
 ### SDK 工具包
 
-- [Remix](https://ethereum.github.io/browser-solidity/) 浏览器编译器
+- [Remix](https://ethereum.github.io/browser-solidity/) 在线以太坊编译器
 - [Truffle](https://github.com/trufflesuite/truffle) 以太坊Dapp开发脚手架
 - [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) 用于编写安全的以太坊合约框架
 - [Web3j](https://github.com/web3j/web3j) 以太坊官方Web3轻量级java SDK
 - [Embark](https://github.com/embark-framework/embark) 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用 
 - [Web3Swift](https://github.com/BANKEX/web3swift) 一个Web3的swift SDK
 - [Porosity](https://github.com/comaeio/porosity) 反编译以太坊智能合约工具
-- [Maian](https://github.com/MAIAN-tool/MAIAN) 以太坊智能合约漏洞查找工具
 - [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) 检测Solidity代码覆盖
-- [Blockbench](https://github.com/ooibc88/blockbench) 区块链性能测试工具
 - [Caliper](https://github.com/hyperledger-archives/caliper) hyperledger区块链性能测试工具
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
+
+### Research 最新研究
+
+- [eWASM](https://github.com/ewasm/design) 让以太坊支持WebAssembly
+- [FSolidM](https://cps-vo.org/group/SmartContracts) 可视化智能合约生成工具 [源码](https://github.com/anmavrid/smart-contracts)
+- [Maian](https://github.com/MAIAN-tool/MAIAN) 以太坊智能合约漏洞查找工具
+- [Oyente](https://github.com/melonproject/oyente) 以太坊智能合约分析工具
+- [Blockbench](https://github.com/ooibc88/blockbench) 区块链性能测试工具
 - [Zokrates](https://github.com/JacobEberhardt/ZoKrates) 以太坊使用zkSNARKS工具包(实验用)
 - [libsnark](https://github.com/scipr-lab/libsnark) zkSNARKS C++库
 
