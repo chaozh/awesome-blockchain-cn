@@ -28,6 +28,7 @@
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
+- [睡前学点区块链](https://wangbicong.gitbooks.io/block-chain/content) 从比特币等主流币入手了解区块链中的概念
 
 ### Ethereum 以太坊进阶
 
