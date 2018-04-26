@@ -21,16 +21,19 @@
 
 ### Started 入门 
 
-- [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
-- [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
-- [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) 以太坊智能合约入门概念
-- [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键要点讲解
+
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
+- [一文看懂区块链：一步一步发明比特币](https://charlesliuyx.github.io/2017/09/24/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE-%E4%BB%A5%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%BA%E4%BE%8B/)
+- [一步一步学区块链](http://blog.csdn.net/jwter87/article/details/53322642) 按步骤的实际操作入门指南
+- [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide) 区块链领域比较系统的入门资料
+- [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键技术要点讲解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
+- [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
 
 ### Ethereum 以太坊进阶
 
+- [区块链技术-智能合约-以太坊](http://ethfans.org/posts/block-chain-technology-smart-contracts-and-ethereum) 以太坊智能合约入门概念
 - [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
@@ -185,6 +188,23 @@
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
 
+### Exchange 交易所
+
+- [0x](https://www.0xproject.com/otc) 0x交易所平台 [源码](https://github.com/0xProject/contracts)
+- [IDEX](https://idex.market) IDEX交易所，目前最活跃 [源码](https://github.com/AuroraDAO)
+- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所 [源码](https://github.com/etherdelta/smart_contract)
+- [forkdelta](https://forkdelta.github.io) forkdelta交易所,较活跃 [源码](https://github.com/forkdelta/smart_contract)
+- [kyber](https://kyber.network/) kyber交易所 [源码](https://github.com/kyberNetwork/smart_contract)
+- [Dmarket](https://dmarket.io) dmarket交易所 [源码](https://github.com/suntechsoft/dmarket-smartcontract)
+- [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
+- [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
+
+### Game 游戏
+
+- [CryptoKitties](https://www.cryptokitties.co/) 以太猫
+- [Etheremon](https://www.etheremon.com/#/) 以太神奇宝贝
+- [Edgeless](https://www.edgeless.io/) 虚拟币在线赌场 [源码](https://github.com/EdgelessCasino/Smart-Contracts)
+
 ### IM 通信
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
@@ -197,14 +217,6 @@
 - [Chronobank](https://chronobank.io/) 共享机制
 - [slockit](https://slock.it/) 租借智能设备 [源码](https://github.com/slockit/smart-contract)
 - [DAO](https://github.com/slockit/DAO) DAO提案
-
-### Exchange 交易所
-
-- [0x](https://www.0xproject.com/otc) 0x交易所 [源码](https://github.com/0xProject/contracts)
-- [ethdelf](https://etherdelta.github.io/#ZRX-ETH) etherdelta交易所 [源码](https://github.com/etherdelta/smart_contract)
-- [Dmarket](https://dmarket.io) dmarket交易所 [源码](https://github.com/suntechsoft/dmarket-smartcontract)
-- [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
-- [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
 
 ### Cross Chain 跨链
 
