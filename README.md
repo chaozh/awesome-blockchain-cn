@@ -74,6 +74,7 @@
 - [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *(English)*
 - [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *(English)*
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
+- [Open-zeppelin合约漏洞审查](https://openzeppelin.org/)
 
 ### Fabric 联盟链
 
