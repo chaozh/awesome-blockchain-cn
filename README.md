@@ -145,6 +145,7 @@
 
 ### Ethereum 以太坊
 
+- [黎跃春区块链博客](http://liyuechun.org)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) 精通以太坊开发Oreilly开源书
 - [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
 - [以太坊系列教程](http://gi1.cn/topics/category/solidity) solidity语言学习
@@ -164,6 +165,13 @@
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
+
+## Golang公链开发视频教程
+
+- [Golang公链开发视频教程 by liyuechun](https://www.youtube.com/channel/UCRxmNhjCYQkGVbKSumcK5Wg/videos?view_as=subscriber)
+- [Golang公链开发视频教程源码下载](https://github.com/liyuechun/blockchain_go_videos)
+
+
 
 ## APPLICATION 应用 
 
@@ -204,6 +212,8 @@
 - [CryptoKitties](https://www.cryptokitties.co/) 以太猫
 - [Etheremon](https://www.etheremon.com/#/) 以太神奇宝贝
 - [Edgeless](https://www.edgeless.io/) 虚拟币在线赌场 [源码](https://github.com/EdgelessCasino/Smart-Contracts)
+
+
 
 ### IM 通信
 
@@ -248,3 +258,5 @@ ETH：0x81847890eecdecb20ee145824eaa1aec079a712c
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all copyright and related or neighboring rights to this work.
+
+
