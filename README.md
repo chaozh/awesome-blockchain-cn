@@ -99,6 +99,7 @@
 
 ### Chain 区块链底层
 
+- [AELF](https://github.com/aelfproject/aelf) AELF 源码
 - [Metaverse](https://github.com/mvs-org/metaverse) 原界链源码
 - [EOS](https://github.com/EOSIO/eos) EOS链源码
 - [BYTOM](https://github.com/Bytom/bytom) 比原链源码
