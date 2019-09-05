@@ -42,6 +42,7 @@
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
 - [Merkle Tree学习](http://blog.csdn.net/jiange_zh/article/details/53386250) 
+- [以太坊的指南针](https://github.com/laalaguer/ethereum-compass)
 
 
 ### Fabric 联盟链进阶
