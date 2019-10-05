@@ -37,8 +37,7 @@ function fabric(config) {
         // chaincode
         chaincode = {
             url: buildURL('/chaincode/'),
-            /*
-                {
+              {
                   "jsonrpc": "2.0",
                   "method": "deploy",
                   "params": {
@@ -53,11 +52,11 @@ function fabric(config) {
                   },
                   "id": 1
                 }
-            */
+            
             deploy: function() {
 
             },
-            /*
+            
                 {
                   "jsonrpc": "2.0",
                   "method": "query",
@@ -73,12 +72,11 @@ function fabric(config) {
                   },
                   "id": 5
                 }
-            */
+            
             query: function() {
 
             },
-            /*
-                {
+             {
                   "jsonrpc": "2.0",
                   "method": "invoke",
                   "params": {
@@ -93,7 +91,7 @@ function fabric(config) {
                   },
                   "id": 3
                 }
-            */
+            
             invoke: function() {
 
             }

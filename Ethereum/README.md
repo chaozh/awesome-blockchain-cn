@@ -6,43 +6,31 @@
 
 ![Ethereum](https://camo.githubusercontent.com/4331977d7fe4377c86fdd5e236e979c88c7461cc/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f3377796274706b7331637839346b342f657468657265756d2e6a70673f7261773d31)
 
-## Contents
-- [架构](#architect)
-- [教程](#tutorials)
-- [视频](#videos)
-- [工具](#tool)
-- [文档](#documents)
-- [SDK](#sdk)
-- [优化](#enhance)
-- [案例](#examples)
-
-## Architect
-
-- [以太坊白皮书](http://ethfans.org/wikis/以太坊白皮书) 讲解以太坊设计思路
-- [以太坊黄皮书](http://yellowpaper.io) 论证以太坊技术可能性 [中文版](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/Paper_Chinese.pdf)
-- [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
-- [以太坊Gas使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*
-- [以太坊设计原理](http://ethfans.org/posts/510)
-- [以太坊代码剖析](http://ethfans.org/topics/227)
-- [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
-- [PoW模式下交易平均要35秒？](http://ethfans.org/posts/current-dynamics-of-transaction-inclusion-on-ethereum)
+## Contents(English)
+- (#tutorials)
+- (#videos)
+- (#tool)
+- (#documents)
+- (#sdk)
+- (#enhance)
+- (#examples)
 
 ## Tutorials
 
-- [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
-- [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-- [Mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
-- [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
-- [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-- [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
-- [以太坊系列教程](http://gi1.cn/topics/category/solidity)
+- (http://www.jianshu.com/p/220130b39e22)
+- (http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- (https://my.oschina.net/wtsoftware/blog/782057)
+- (http://ethfans.org/posts/101-noob-intro)
+- (http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- (http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
+- (http://gi1.cn/topics/category/solidity)
 - [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程
 - [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程
 - [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约
-- [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误
-- [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
-- [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
-- [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
+- (http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误
+- (http://8btc.com/thread-23195-1-1.html)
+- (http://blog.csdn.net/wo541075754/article/category/6502432/1)
+- (https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
 
 ## Videos
 

@@ -2,7 +2,7 @@
 
 >  collection of best resources for hyperledger fabric development
 
-Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) is deporacated! please use this [fabric](https://github.com/hyperledger/fabric) repo instead.
+Notice: [hyperledger-archives](https://github.com/hyperledger-archives/fabric) is deporacated! please use this [fabric](https://github.com/hyperledger/fabric).
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
