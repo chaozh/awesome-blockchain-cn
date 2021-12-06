@@ -162,7 +162,6 @@
 ### Fabric 联盟链
 
 - [Fabric Official Docs](https://hyperledger-fabric.readthedocs.io/en/latest/) Fabric官方最新文档
-- [浮白](http://fubai.tech/)  Fabric开发环境搭建与codechain入门
 - [yeasy的专栏](http://blog.csdn.net/yeasy) IBM fabric核心开发者yeasy的专栏
 - [菜鸟的博客](http://blog.csdn.net/xjmtxwd24/) fabric0.6及1.0源码分析
 - [jiang_xinxing的博客](http://blog.csdn.net/jiang_xinxing/article/category/6642179) fabric0.6源码分析
@@ -176,6 +175,7 @@
 - [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
 - [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
 - [Etherscope](https://etherscope.io) 以太坊区块链浏览器
+- [Oklink](https://www.oklink.com/eth/defi) Defi市场状况浏览器
 
 ### Wallet 钱包
 
@@ -201,6 +201,16 @@
 - [Dmarket](https://dmarket.io) dmarket交易所 [源码](https://github.com/suntechsoft/dmarket-smartcontract)
 - [augur](https://augur.net/) 对赌交易所 [源码](https://github.com/AugurProject)
 - [melonport](https://melonport.com/) 数字资产交易所 [源码](https://github.com/melonproject)
+
+### Defi 去中心化金融
+
+- [Uniswap](https://uniswap.org/) Uniswap [源码](https://github.com/Uniswap)
+- [Synthetix](https://www.synthetix.io/) Synthetix 衍生品[源码](https://github.com/synthetixio)
+- [Aave](https://aave.com/) Aave 借贷机制 [源码](https://github.com/aave)
+- [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol)
+- [MakerDao](https://makerdao.com/) MakerDao 做市Dai代币 [源码](https://github.com/makerdao)
+- [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)
+- [USDT](https://tether.to/) USDT稳定币
 
 ### Game 游戏
 
@@ -230,7 +240,7 @@
 
 - [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的ICO代币标准
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
-- [maker](https://makerdao.com/) Dai代币
+- [NFT](https://www.nft.org/) NFT代币
 
 ## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
 
