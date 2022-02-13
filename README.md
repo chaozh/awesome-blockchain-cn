@@ -30,6 +30,7 @@
 - [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键技术要点讲解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 - [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
+- [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
 
 ### Ethereum 以太坊进阶
 

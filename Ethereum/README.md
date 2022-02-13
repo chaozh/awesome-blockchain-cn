@@ -43,6 +43,7 @@
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
+- [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
 
 ## Videos
 
