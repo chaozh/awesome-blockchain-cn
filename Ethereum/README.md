@@ -43,6 +43,10 @@
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
 - [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
+- [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
+- [useWeb3教程](https://www.useweb3.xyz/)
+- [cryptozombies教程](https://cryptozombies.io/)
+- [chainshot教程](https://www.chainshot.com/courses)
 
 ## Videos
 
@@ -123,6 +127,16 @@
 
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 - [maker](https://makerdao.com/) Dai代币
+
+### Defi
+
+- [Uniswap](https://uniswap.org/) Uniswap [源码](https://github.com/Uniswap)
+- [Synthetix](https://www.synthetix.io/) Synthetix 衍生品[源码](https://github.com/synthetixio)
+- [Aave](https://aave.com/) Aave 借贷机制 [源码](https://github.com/aave)
+- [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol)
+- [MakerDao](https://makerdao.com/) MakerDao 做市Dai代币 [源码](https://github.com/makerdao)
+- [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)
+- [USDT](https://tether.to/) USDT稳定币
 
 ## License
 

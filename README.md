@@ -30,6 +30,7 @@
 - [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键技术要点讲解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 - [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
+- [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
 
 ### Ethereum 以太坊进阶
 
@@ -75,6 +76,11 @@
 - [ROBUST SMART CONTRACTS WITH OPENZEPPELIN](http://zeppelin.tryblockchain.org/robust-smart-contracts-with-openzeppelin.html) OpenZeppelin集成Truffle编写健壮安全的合约 *(English)*
 - [Truffle3.0案例教程](http://truffle.tryblockchain.org/truffle3.0-integrate-nodejs.html) 集成NodeJS并完全跑通，附详细实例和可能的错误 *(English)*
 - [以太坊开发入门教程](http://blog.csdn.net/wo541075754/article/category/6502432/1)
+- [useWeb3教程](https://www.useweb3.xyz/) web3开发教程合集 *(English)*
+- [cryptozombies教程](https://cryptozombies.io/) solidity游戏式教程 *(English)*
+- [chainshot教程](https://www.chainshot.com/courses) web3开发教程合集 *(English)*
+- [smartcontract教程](https://www.smartcontract.engineer/)  solidity leetcode模式教程 *(English)*
+- [solidity案例教程](https://solidity-by-example.org/app/ether-wallet/) solidity案例学习 *(English)*
 
 ### Fabric 联盟链
 
@@ -155,9 +161,10 @@
 - [Truffle框架文档](http://truffle.tryblockchain.org/) 框架中文手册
 - [Open Zeppelin框架文档](http://zeppelin.tryblockchain.org/) 框架中文手册
 - [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) Ethplorer接口文档
-- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) _(english)_
 - [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
-- [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) *(English)*
+- [EthList](https://github.com/Scanate/EthList) 以太坊开发相关学习资料收集 *(English)*
+- [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) 以太坊开发资料收集
 
 ### Fabric 联盟链
 
@@ -240,6 +247,7 @@
 
 - [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的ICO代币标准
 - [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
+- [NFT](https://www.nft.org/) NFT代币
 
 ## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
 
