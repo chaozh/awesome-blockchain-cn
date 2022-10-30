@@ -50,11 +50,13 @@
 
 ## Videos
 
-- [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) 视频教程
-- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
-- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
+- [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) *(English)*
+- [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) *(English)*
+- [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) *(English)*
+- [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/watch?v=7BKegezSXIU&list=PLaOiBfasbC4nULu0Ikv55hR1FpmCfNDdB&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 4 (Prague, 2018) talks and videos](https://www.youtube.com/watch?v=xU-aCLSXk04&list=PLAvgWf9pPaiPNtLtHQI1TdYqDWKrwV5kl&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 5 (Osaka, 2019) talks and videos](https://www.youtube.com/watch?v=y9A8wHhNjJA&list=PLAvgWf9pPaiO3S1dWdnvrQuXJBy89JFXy&ab_channel=EthereumFoundation) *(English)*
+- [Devcon 6 (Bogota, 2022) talks and videos](https://www.youtube.com/watch?v=h4MP1vwnyEE&list=PLaM7G4Llrb7wPaWK47GNSGvPoXUZGYVKX&ab_channel=EthereumFoundation) *(English)*
 
 ## Tool
 
