@@ -234,7 +234,9 @@
 ### IM 通信
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
-
+- Nostr 相关
+    - [nostr](https://github.com/nostr-protocol/nostr) Nostr协议目录
+    - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) Nostr Relay Rust实现
 ### Social 社会
 
 - [Oraclize](http://docs.oraclize.it/#background) 第三方信息提供
