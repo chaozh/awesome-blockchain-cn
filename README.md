@@ -183,6 +183,8 @@
 
 ### Explorer 链浏览
 
+- [3xpl](https://3xpl.com) 最快的无广告通用区块浏览器
+- [Blockchair](https://blockchair.com) 通用区块链浏览器和搜索引擎
 - [Blockchain](https://blockchain.info) 比特币区块链浏览器
 - [Etherscan](https://etherscan.io) 以太坊区块链浏览器
 - [Ethplorer](https://ethplorer.io) 以太坊区块链浏览器，提供API调用
