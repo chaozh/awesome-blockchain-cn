@@ -69,7 +69,7 @@
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
 - [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
-- [以太坊常见问题FAQ](http://8btc.com/thread-23195-1-1.html)
+- [Solidity智能合约](https://github.com/WTFAcademy/WTF-Solidity-Internals) 介绍Solidity智能合约中的存储布局，内存布局，以及ABI编码规则，帮助大家理解Solidity的内部规则。
 - [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
 - [Create your own crypto-currency](https://www.ethereum.org/token) 来自以太坊官方的代币创建教程 *(English)*
 - [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop) Truffle框架逐步案例教程 *(English)*
@@ -153,7 +153,7 @@
 
 ### BitCoin 比特币
 
-- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](http://zhibimo.com/books/wang-miao/mastering-bitcoin)
+- [精通比特币](https://github.com/bitcoinbook/bitcoinbook) 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN)
 - [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 - [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
