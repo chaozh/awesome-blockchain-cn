@@ -21,7 +21,6 @@
 
 ### Started 入门 
 
-
 - [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902) 比特币区块链关键词讲解
 - [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289) 比特币区块链技术图解
 - [一文看懂区块链：一步一步发明比特币](https://charlesliuyx.github.io/2017/09/24/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE-%E4%BB%A5%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%BA%E4%BE%8B/)
@@ -30,6 +29,7 @@
 - [理解区块链](http://blog.csdn.net/csolo/article/details/52858236) 区块链关键技术要点讲解
 - [一文看懂区块链架构设计](http://www.8btc.com/ebook-blockchain) 从技术分层解构架构
 - [共识算法与如何解决拜占庭将军问题](https://charlesliuyx.github.io/2018/03/03/%E3%80%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%91%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E6%8B%9C%E5%8D%A0%E5%BA%AD%E5%B0%86%E5%86%9B%E9%97%AE%E9%A2%98/)
+- [Blockchain Demo](https://blockchaindemo.io/)  A visual demo of blockchain technology
 - [Defi Mooc教程](https://defi-learning.org/) Defi公开课程
 
 ### Ethereum 以太坊进阶
@@ -67,7 +67,6 @@
 
 - [以太坊从零开始入门](http://www.jianshu.com/p/220130b39e22)
 - [以太坊开发入门经验](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
-- [mac配置以太坊本地开发环境](https://my.oschina.net/wtsoftware/blog/782057)
 - [以太坊智能合约编程之菜鸟教程](http://ethfans.org/posts/101-noob-intro)
 - [Solidity智能合约](https://github.com/WTFAcademy/WTF-Solidity-Internals) 介绍Solidity智能合约中的存储布局，内存布局，以及ABI编码规则，帮助大家理解Solidity的内部规则。
 - [区块链语言Solidity校验椭圆曲线加密数字签名（附实例）](http://www.toutiao.com/i6401418700217385473/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&iid=8932715408&utm_medium=toutiao_ios&wxshare_count=2&pbid=35867484354)
@@ -137,6 +136,7 @@
 - [Caliper](https://github.com/hyperledger-archives/caliper) hyperledger区块链性能测试工具
 - [Composer](https://github.com/hyperledger/composer) 官方可视化Fabric应用开发框架
 - [Cakeshop](https://github.com/jpmorganchase/cakeshop) 来自JP Morgan的以太坊可视化管理工具
+- [btcschools.net](https://www.btcschools.net) 一个区块链的PHP SDK
 
 ### Research 最新研究
 
@@ -189,6 +189,8 @@
 - [Eth Gas Station](https://ethgasstation.info/index.php) 以太坊Gas目前定价
 - [Etherscope](https://etherscope.io) 以太坊区块链浏览器
 - [Oklink](https://www.oklink.com/eth/defi) Defi市场状况浏览器
+- [Tokenview](https://tokenview.io) The General Multi-chain Explorer and Blockchain API
+- [3xpl](https://3xpl.com) 最快的无广告通用区块浏览器
 
 ### Wallet 钱包
 
@@ -234,9 +236,9 @@
 ### IM 通信
 
 - [status-im](https://github.com/status-im/status-network-token) status.im项目开源代码
-- Nostr 相关
-    - [nostr](https://github.com/nostr-protocol/nostr) Nostr协议目录
-    - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) Nostr Relay Rust实现
+- [nostr](https://github.com/nostr-protocol/nostr) Nostr协议目录
+- [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) Nostr Relay Rust实现
+  
 ### Social 社会
 
 - [Oraclize](http://docs.oraclize.it/#background) 第三方信息提供
