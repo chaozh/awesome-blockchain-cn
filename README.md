@@ -106,6 +106,8 @@
 ### Roadmaps 路线图
 
 - [Blockchain Roadmap](https://roadmap.sh/blockchain)
+- [Roadmap of learning blockchain](https://github.com/Blockchain-zju/blockchainer-roadmap)
+- [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 ## PROJECT 项目
 
@@ -206,6 +208,7 @@
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S) 硬件钱包
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08) 硬件钱包
 - [DeBank](https://debank.com/) 以太坊 DeFi 钱包
+- [web3modal](https://github.com/WalletConnect/web3modal) Web3 provider solution for all Wallets
 
 ### Exchange 交易所
 
