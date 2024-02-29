@@ -260,7 +260,7 @@
 ### Token 代币
 
 - [ERC20](https://github.com/ethereum/EIPs/pull/610) 以太坊的ICO代币标准
-- [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
+- [Token Sale](https://vitalik.eth.limo/general/2017/06/09/sales.html) 代币销售模型
 - [NFT](https://www.nft.org/) NFT代币
 
 ## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) 
